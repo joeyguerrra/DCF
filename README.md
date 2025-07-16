@@ -1,6 +1,5 @@
 # DCF Model in Py
-This project runs a simple Discounted Cash Flow (DCF) analysis in Python.
-
+*new
 ## Usage
 
 1. Edit financial assumptions in `config.py` (see the `DCF_CONFIG` dictionary).
@@ -14,4 +13,4 @@ This project runs a simple Discounted Cash Flow (DCF) analysis in Python.
 To change key assumptions (e.g., revenue growth rate, margins, discount rate), update the values in `config.py`.
 
 ---
-This project is for learning as I just started intersecting Py with finance specifically modeling. If there are any suggestions or improvements, feel free to let me know!
+I'm learning as intersecting Py with finance specifically m&a modeling is new for me. If there are any suggestions or improvements, feel free to let me know!
